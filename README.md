@@ -1,4 +1,4 @@
-# EJ.github.io
+# InterstellarJ2049.github.io
 Personal portfolio and resume
 
-## error username!
+## error username: EJ.github.io
